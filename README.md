@@ -84,17 +84,26 @@ Screenshots will be added in the **screenshots** folder showing:
 Mohammad Rahil
 ## Project Screenshots
 
+### EC2 Instance Running
+
+![EC2 Instance](screenshots/ec2-instance.png)
+
 ### AWS EC2 Ubuntu Instance
-![EC2 Instance](screenshots/AWS EC2 Ubuntu Instance.png)
+
+![AWS EC2 Ubuntu Instance](screenshots/AWS EC2 Ubuntu Instance.png)
 
 ### Apache Web Server Installation
-![Apache Installation](screenshots/Apache Web Server Installation on EC2.png)
+
+![Apache Web Server Installation](screenshots/Apache Web Server Installation on EC2.png)
 
 ### Website Hosted on EC2 with Image from S3
-![Website Output](screenshots/Website Hosted on EC2 with Image from S3.png)
+
+![Website Hosted on EC2](screenshots/Website Hosted on EC2 with Image from S3.png)
 
 ### Amazon S3 Storage Bucket
-![S3 Bucket](screenshots/Amazon S3 Storage Bucket.png)
+
+![Amazon S3 Storage Bucket](screenshots/Amazon S3 Storage Bucket.png)
 
 ### Image Stored in Amazon S3
-![S3 Image](screenshots/Screenshot Image Stored in Amazon S3.png)
+
+![Image Stored in Amazon S3](screenshots/Screenshot Image Stored in Amazon S3.png)
