@@ -84,3 +84,16 @@ Screenshots will be added in the **screenshots** folder showing:
 Mohammad Rahil
 Aspiring Cloud Support Engineer
 Skills: AWS | Linux | Networking | Troubleshooting
+## Project Screenshots
+
+### EC2 Instance Running
+![EC2 Instance](screenshots/ec2-instance.png)
+
+### Apache Web Server Installation
+![Apache Installation](screenshots/apache-install.png)
+
+### Website Hosted on EC2
+![Website Output](screenshots/website-output.png)
+
+### Amazon S3 Bucket
+![S3 Bucket](screenshots/s3-bucket.png)
