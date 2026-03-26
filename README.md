@@ -85,16 +85,15 @@ Mohammad Rahil
 ## Project Screenshots
 
 ### AWS EC2 Ubuntu Instance
-![EC2 Instance](screenshots/AWS EC2 Ubuntu Instance.png)
+screenshots/AWS EC2 Ubuntu Instance.png
 
 ### Apache Web Server Installation
-![Apache Installation](screenshots/Apache Web Server Installation on EC2.png)
-
+screenshots/Apache Web Server Installation on EC2.png
 ### Website Hosted on EC2 with Image from S3
-![Website Output](screenshots/Website Hosted on EC2 with Image from S3.png)
+screenshots/Website Hosted on EC2 with Image from S3.png
 
 ### Amazon S3 Storage Bucket
-![S3 Bucket](screenshots/Amazon S3 Storage Bucket.png)
+screenshots/Amazon S3 Storage Bucket.png
 
 ### Image Stored in Amazon S3
-![S3 Image](screenshots/Screenshot Image Stored in Amazon S3.png)
+screenshots/Screenshot Image Stored in Amazon S3.png
