@@ -81,10 +81,6 @@ Screenshots will be added in the **screenshots** folder showing:
 
 Mohammad Rahil
 ## Project Screenshots
-
-### EC2 Instance Running
-![EC2 Instance](screenshots/ec2-instance.png)
-
 ### AWS EC2 Ubuntu Instance
 ![EC2 Ubuntu Instance](screenshots/ec2-ubuntu-instance.png)
 
